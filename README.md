@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikhil
 - 👀 I’m interested in Web Development and Competative Coding
 - 🌱 I’m currently learning Angular 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 You can reach me @nikhilkr8804@gmail.com
 
 <!---
